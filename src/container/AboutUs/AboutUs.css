@@ -63,7 +63,7 @@
   }
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1150px) {
   .app__aboutus-content {
     flex-direction: column;
   }
